@@ -1,0 +1,1 @@
+# Comparing-the-performance-of-MLP-and-CNN-based-structures-in-classification-Shoe-Boot-Sandal-dataset
